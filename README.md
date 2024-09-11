@@ -1,5 +1,6 @@
 # FootballPairs
 Understanding of the task: Creating backend logic for and app that calculates the time that football players played together in pairs. All the data must be loaded from CSV files and saved into database.
+
 Algorithm: 
 1. Validate CSV files.
 2. Save all the data in database.
